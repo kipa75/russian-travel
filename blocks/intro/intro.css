@@ -1,0 +1,12 @@
+.intro {
+  max-width: 76.8vw;
+  margin: 0 auto;
+  padding-bottom: 92px;
+  background-color: #2a2c2f;
+}
+
+@media screen and (max-width: 425px) {
+  .intro {
+    padding-bottom: 64px;
+  }
+}

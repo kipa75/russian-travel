@@ -1,23 +1,40 @@
-# Проект: Путешествие по России
+# Проектная работа: "Путешествие по России". Создана в рамках учебы в [Яндекс.Практикум](https://praktikum.yandex.ru/) на факультете ["Веб-разработчик"](https://praktikum.yandex.ru/web/) 
 
-### Обзор
-* Интро
-* Figma
-* Картинки
 
-**Интро**
+## Описание: 
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
+"Путешествие по России" - это типовой одностраничный сайт про российский внутренний туризм. В проектной работе была применена работа с макетом в Figma, построение сложных сеток, разширенные возможности HTML и CSS. Отличием от предыдущей проектной работы ["How to Learn" (ссылка на репозиторий)](https://github.com/kipa75/how-to-learn) является реализация адаптивной вёрстки посредством Flexbox, Grid Layout и Media queries. 
 
-**Figma**
+[Проектная работа на GitHub Pages](https://kipa75.github.io/russian-travel/index) 
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+## Функционал: 
 
-**Картинки**
+* Адаптивный дизайн 
+* Сложная сетка в разделе *photo-grid* и *places* 
 
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
 
-Удачи!
+## Технологии: 
+
+* Grid Layout
+* Flexbox 
+* BEM Methodology 
+* Git 
+* Figma 
+
+## Инструкция по установке: 
+
+```
+git clone https://github.com/kipa75/russian-travel.git
+``` 
+Запустите локальный сервер разработки с функцией перезагрузки в реальном времени для статических и динамических страниц - [How do you set up a local testing server? (MDN web docs)](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server) 
+
+
+## Ссылка на макет: 
+
+[Макет в "Figma"](https://drive.google.com/file/d/1PA3d-rIn5ncNtcODT_42haGpmgquCk7t/view?usp=sharing) 
+
+## Ссылка на чеклист: 
+
+[Чеклист проектной работы](https://code.s3.yandex.net/web-developer/checklists-pdf/new-program/checklist-3.pdf) 
+
+

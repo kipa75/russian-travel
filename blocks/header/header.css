@@ -1,0 +1,10 @@
+.header {
+    width: 92.1vw;
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 28px 0 48px;
+    background-color: #2A2C2F;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
