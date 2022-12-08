@@ -3,14 +3,14 @@
 
 ## Описание: 
 
-"Путешествие по России" - это типовой одностраничный сайт про российский внутренний туризм. В проектной работе была применена работа с макетом в Figma, построение сложных сеток, разширенные возможности HTML и CSS. Отличием от предыдущей проектной работы ["How to Learn" (ссылка на репозиторий)](https://github.com/kipa75/how-to-learn) является реализация адаптивной вёрстки посредством Flexbox, Grid Layout и Media queries. 
+"Путешествие по России" - это типовой одностраничный сайт, в котором размещена информация, где можно провести незабываемый отпуск в России. Просто наша страна настолько прекрасна, что заслуживает отдельной подборки. В данном проекте была применена практика работы с макетом в Figma, построение сложных сеток, разширенные возможности HTML и CSS. 
 
-[Проектная работа на GitHub Pages](https://kipa75.github.io/russian-travel/index) 
+ 
 
 ## Функционал: 
 
 * Адаптивный дизайн 
-* Сложная сетка в разделе *photo-grid* и *places* 
+* Сложная сетка в разделе "photo-grid" и "places" 
 
 
 ## Технологии: 
@@ -24,14 +24,14 @@
 ## Инструкция по установке: 
 
 ```
-git clone https://github.com/kipa75/russian-travel.git
+git clone git@github.com:kipa75/russian-travel.git
 ``` 
-Запустите локальный сервер разработки с функцией перезагрузки в реальном времени для статических и динамических страниц - [How do you set up a local testing server? (MDN web docs)](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server) 
+
 
 
 ## Ссылка на макет: 
 
-[Макет в "Figma"](https://drive.google.com/file/d/1PA3d-rIn5ncNtcODT_42haGpmgquCk7t/view?usp=sharing) 
+[Макет в "Figma"](https://www.figma.com/file/N4adnnmWozBs67GQVsYNKK/Sprint-3_-Russia-_-desktop-%2B-mobile-(Copy)?node-id=62863%3A870&t=oKrFdDGHiCjC77Jk-1) 
 
 ## Ссылка на чеклист: 
 
