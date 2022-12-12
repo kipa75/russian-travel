@@ -3,7 +3,6 @@
     margin: 0;
     padding: 0;
     display: flex;
-    font-family: 'Inter', Arial, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
@@ -11,7 +10,7 @@
     color: #FFFFFF;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 600px) {
 
     .footer__menu-links {
         flex-direction: column;

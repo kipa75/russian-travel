@@ -5,7 +5,7 @@
 
 "Путешествие по России" - это типовой одностраничный сайт, в котором размещена информация, где можно провести незабываемый отпуск в России. Просто наша страна настолько прекрасна, что заслуживает отдельной подборки. В данном проекте была применена практика работы с макетом в Figma, построение сложных сеток, разширенные возможности HTML и CSS. 
 
-[Проектная работа на GitHub Pages](https://kipa75.github.io/russian-travel/index) 
+
 
 ## Функционал: 
 
@@ -37,4 +37,5 @@ git clone git@github.com:kipa75/russian-travel.git
 
 [Чеклист проектной работы](https://code.s3.yandex.net/web-developer/checklists-pdf/new-program/checklist-3.pdf) 
 
-
+## Ссылка на GitHub Pages:
+[Проектная работа на GitHub Pages](https://kipa75.github.io/russian-travel/index) 

@@ -1,12 +1,28 @@
 .places {
-  font-family: "Inter", Arial, sans-serif;
   background-color: #2a2c2f;
   margin: 0 auto;
-  width: 72.1vw;
+  width: 72.1%;
+  padding-bottom: 99px;
+  box-sizing: border-box;
 }
 
 @media screen and (max-width: 1024px) {
   .places {
-    width: 92.1vw;
+    padding: 0 48px 99px;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .places {
+    padding: 0 24px 88px;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .places {
+    padding: 0 16px 64px;
+    width: 100%;
   }
 }

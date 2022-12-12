@@ -12,5 +12,11 @@
 }
 
 .header__lang-link:hover {
-  text-decoration: underline;
+  opacity: 0.8;
+}
+
+@media (max-width: 321px) {
+  .header {
+    font-size: 18px;
+  }
 }
