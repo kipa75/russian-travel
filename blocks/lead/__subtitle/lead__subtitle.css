@@ -15,18 +15,23 @@
 @media screen and (max-width: 1024px) {
   .lead__subtitle {
     font-size: 30px;
+    width: 640px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .lead__subtitle {
-    font-size: 30px;
-    width: 70%;
+    width: 640px;
   }
 }
 
 @media screen and (max-width: 425px) {
   .lead__subtitle {
     font-size: 16px;
+    width: 288px;
+    margin-bottom: 40px;
+    margin-top: 16px;
+    margin-left: auto;
+    margin-right: auto;
   }
 }

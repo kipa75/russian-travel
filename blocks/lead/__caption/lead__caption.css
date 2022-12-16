@@ -19,14 +19,12 @@
 
 @media screen and (max-width: 768px) {
   .lead__caption {
-    font-size: 10px;
     margin-left: 24px;
   }
 }
 
 @media screen and (max-width: 425px) {
   .lead__caption {
-    font-size: 10px;
-    margin-left: 0;
+    margin-left: 14px;
   }
 }

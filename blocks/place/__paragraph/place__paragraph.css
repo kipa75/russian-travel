@@ -6,3 +6,9 @@
   line-height: 1.67;
   color: #ffffff;
 }
+
+@media screen and (max-width: 425px) {
+  .place__paragraph {
+    padding: 0 16px 0;
+  }
+}

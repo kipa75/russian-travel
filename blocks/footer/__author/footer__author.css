@@ -1,19 +1,17 @@
 .footer__author {
-    margin: 0;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 16px;
-    line-height: 1.14;
-    color: #FFFFFF;
-    margin-left: auto;
+  margin: 0;
+  color: #ffffff;
+  margin-left: auto;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
 }
 
-@media screen and (max-width: 768px) {
-    .footer__author {
-        margin-top: 48px;
-        line-height: 1;
-        max-width: 230px;
-        margin-left: unset;
-        font-size: 14px;
-    }
+@media screen and (max-width: 425px) {
+  .footer__author {
+    margin-top: 48px;
+    max-width: 230px;
+    margin-left: unset;
+  }
 }

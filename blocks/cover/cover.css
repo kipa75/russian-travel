@@ -24,10 +24,21 @@
   top: 0;
   bottom: 0;
   margin: auto;
+}
+
+.cover::after {
+  content: "";
+  background-color: black;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
   opacity: 0.3;
 }
 
-.cover:hover::before {
+.cover:hover::after {
   opacity: 0.8;
 }
 
@@ -41,16 +52,12 @@
 
 @media screen and (max-width: 768px) {
   .cover {
-    padding: 0;
     margin-bottom: 88px;
-    width: 100%;
   }
 }
 
 @media screen and (max-width: 425px) {
   .cover {
-    padding: 0;
     margin-bottom: 64px;
-    width: 100%;
   }
 }

@@ -25,14 +25,12 @@
 
 @media screen and (max-width: 768px) {
   .footer {
-    width: 100%;
     padding: 0 24px 24px;
   }
 }
 
 @media screen and (max-width: 425px) {
   .footer {
-    width: 100%;
     padding: 0 16px 24px;
   }
 }
