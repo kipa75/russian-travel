@@ -3,7 +3,7 @@
   font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 900;
-  font-size: 4.5rem;
+  font-size: 72px;
   line-height: 1.1;
   color: #ffffff;
 }
@@ -19,6 +19,7 @@
   .place__title {
     font-size: 42px;
     margin-top: 72px;
+    width: 340px;
   }
 }
 

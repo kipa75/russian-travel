@@ -5,6 +5,24 @@
   position: relative;
   z-index: 2;
   text-decoration: none;
-  justify-content: center;
+  margin: 242px 317px 242px;
   flex-grow: 1;
+}
+
+@media screen and (max-width: 1024px) {
+  .cover__wrap {
+    margin: 195px 232px 195px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .cover__wrap {
+    margin: 115px 104px 115px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .cover__wrap {
+    margin: 33px 16px 33px;
+  }
 }
