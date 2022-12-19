@@ -9,6 +9,7 @@
   text-decoration: none;
   transition: opacity 0.3s ease;
   margin-left: 18px;
+  box-sizing: border-box;
 }
 
 .header__lang-link:hover {
