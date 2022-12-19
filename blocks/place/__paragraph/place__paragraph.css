@@ -5,7 +5,7 @@
   font-size: 18px;
   line-height: 163%;
   color: #ffffff;
-  width: 484px;
+  max-width: 484px;
 }
 
 @media screen and (max-width: 768px) {
@@ -15,7 +15,7 @@
     font-weight: 400;
     font-size: 16px;
     line-height: 163%;
-    width: 352px;
+    max-width: 352px;
   }
 }
 
@@ -26,6 +26,6 @@
     font-weight: 400;
     font-size: 16px;
     line-height: 163%;
-    width: 288px;
+    max-width: 288px;
   }
 }
